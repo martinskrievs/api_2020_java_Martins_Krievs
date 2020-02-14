@@ -15,16 +15,7 @@
               "status": "undefined"
             },
             "line": 5,
-            "name": "User has CLICKUP space with ID \"2493404\"",
-            "match": {},
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "status": "undefined"
-            },
-            "line": 6,
-            "name": "user changes Click board name to \"LetsGetTheBread\"",
+            "name": "User creates new folder in Clickup with id \"2493404\"",
             "match": {},
             "keyword": "When "
           },
@@ -32,10 +23,115 @@
             "result": {
               "status": "undefined"
             },
+            "line": 6,
+            "name": "Then he check is folder is created",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
             "line": 7,
-            "name": "check if board name was updated to \"LetsGetTheBread\"",
+            "name": "Delete folder that has been created",
             "match": {},
             "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Add folder and list in Clickup",
+        "description": "",
+        "id": "clickup-board;add-folder-and-list-in-clickup",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "User creates new folder in Clickup with id \"2572551\" and name \"Helo\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "User creates a lsit with a name of \"List name\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "User verifys that lsit has been made",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CreatNewFolder"
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "Update space name",
+        "description": "",
+        "id": "clickup-board;update-space-name",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 19,
+            "name": "User updates Clickup with id \"2572551\" and name of it \"New king\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "User check if folder has been made \"New king\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 21,
+            "name": "And creates a task \"nee\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 22,
+            "name": "User check if every thing has been changed",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CreatNewFolder"
+          },
+          {
+            "name": "@ClickUPNameChanged"
           }
         ]
       }
