@@ -84,6 +84,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="522" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1581677879291" />
+    <state x="254" y="23" key="CommitChangelistDialog2" timestamp="1581693746825">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="254" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1581693746825" />
     <state x="108" y="123" width="1200" height="567" key="DiffContextDialog" timestamp="1581693554839">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -141,9 +145,10 @@
       <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="296" y="156" key="IDE.errors.dialog/0.23.1440.798@0.23.1440.798" timestamp="1581686471966" />
-    <state x="385" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1581686566441">
-      <screen x="0" y="23" width="1440" height="798" />
+    <state x="385" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1581693616540">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state x="385" y="239" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1581693616540" />
     <state x="385" y="239" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1581686566441" />
     <state x="491" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581693506819">
       <screen x="0" y="23" width="1440" height="797" />
