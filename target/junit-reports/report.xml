@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.031092">
+<testcase classname="Clickup board" name="Update Board name" time="0.031092">
+<skipped><![CDATA[Given User has CLICKUP space with ID "2493404"..............................undefined
+When user changes Click board name to "LetsGetTheBread".....................undefined
+Then check if board name was updated to "LetsGetTheBread"...................undefined
+]]></skipped>
+</testcase>
+</testsuite>

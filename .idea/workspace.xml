@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9835c448-1850-4246-9be5-6b279cb92f36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XnKUin2SmQiaOy5eRREYRMLg1A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pi_2020_java_​Martins_Krievs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9835c448-1850-4246-9be5-6b279cb92f36" name="Default Changelist" comment="" />
+      <created>1581676435948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581676435948</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1581677879291">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="522" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1581677879291" />
+    <state x="511" y="329" key="Github.CreateGistDialog" timestamp="1581688891754">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="511" y="329" key="Github.CreateGistDialog/0.23.1440.797@0.23.1440.797" timestamp="1581688891754" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom" timestamp="1581688352871">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1581688352871" />
+    <state width="1358" height="241" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1581686539108" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1581680991069" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center" timestamp="1581688352870">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1581688352870" />
+    <state width="1358" height="241" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1581686539108" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1581680991067" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left" timestamp="1581688352869">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1581688352869" />
+    <state width="1358" height="241" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1581686539107" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1581680991066" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right" timestamp="1581688352870">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1581688352870" />
+    <state width="1358" height="241" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1581686539108" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1581680991068" />
+    <state width="1358" height="241" key="GridCell.Tab.1.bottom" timestamp="1581686539110">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1358" height="241" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1581684503732" />
+    <state width="1358" height="241" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1581686539110" />
+    <state width="1358" height="241" key="GridCell.Tab.1.center" timestamp="1581686539109">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1358" height="241" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1581684503731" />
+    <state width="1358" height="241" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1581686539109" />
+    <state width="1358" height="241" key="GridCell.Tab.1.left" timestamp="1581686539109">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1358" height="241" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1581684503730" />
+    <state width="1358" height="241" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1581686539109" />
+    <state width="1358" height="241" key="GridCell.Tab.1.right" timestamp="1581686539109">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1358" height="241" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1581684503731" />
+    <state width="1358" height="241" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1581686539109" />
+    <state x="296" y="156" key="IDE.errors.dialog" timestamp="1581686471966">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="296" y="156" key="IDE.errors.dialog/0.23.1440.798@0.23.1440.798" timestamp="1581686471966" />
+    <state x="385" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1581686566441">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="385" y="239" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1581686566441" />
+    <state x="466" y="364" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1581686249244">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="466" y="364" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1440.797@0.23.1440.797" timestamp="1581677376279" />
+    <state x="466" y="364" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1440.798@0.23.1440.798" timestamp="1581686249244" />
+  </component>
+</project>

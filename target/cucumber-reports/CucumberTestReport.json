@@ -1,0 +1,50 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Update Board name",
+        "description": "",
+        "id": "clickup-board;update-board-name",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User has CLICKUP space with ID \"2493404\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "user changes Click board name to \"LetsGetTheBread\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "check if board name was updated to \"LetsGetTheBread\"",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Clickup board",
+    "description": "  This is very explaining description",
+    "id": "clickup-board",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/clickup.feature",
+    "tags": []
+  }
+]
